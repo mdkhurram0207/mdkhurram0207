@@ -1,16 +1,19 @@
-## Hi there 👋
+Mohammad Khurram
 
-<!--
-**mdkhurram0207/mdkhurram0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
+🎓 B.Tech Graduate | Class of 2025
+🚀 Focused on Cloud Computing & DevOps
+🌎 Actively seeking internships and entry-level roles in cloud technologies
+☕ Self-learner with a passion for automation and scalability
 
-Here are some ideas to get you started:
+🌐 Tech Interests
+☁️ Cloud Platforms: AWS (Basics), Azure (Learning Phase)
+⚙️ DevOps Tools: Git, GitHub Actions, CI/CD Concepts (Basics)
+📂 Linux & Bash (Foundational knowledge)
+📊 Containerization (Learning Docker)
+🔧 Infrastructure as Code (Learning Terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Looking to Connect
+🌐 LinkedIn
+🎨 Open to collaboration on beginner-friendly DevOps or Cloud projects
+

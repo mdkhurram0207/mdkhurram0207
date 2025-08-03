@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="Cloud & DevOps Banner" />
+  <img src="banner.png" alt="Cloud & DevOps Banner" width="100%" />
 </p>
 
- Hi, I'm Mohammad Khurram  
+<h1 align="center">Hi, I'm Mohammad Khurram 👋</h1>
+
+<p align="center">
+   
 🚀 Cloud & DevOps Enthusiast | CI/CD • AWS • Docker • GitHub Actions  
 🎯 Open to Internships and Entry-Level Opportunities  
 

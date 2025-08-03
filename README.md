@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ZN5lZQIOr3KBKBFUpDPgaTeL3m7tQoqD" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Mohammad Khurram </h1>
 

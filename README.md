@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://i.imgur.com/yourImageHash.png" alt="Cloud & DevOps Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Mohammad Khurram </h1>
 
 <p align="center">

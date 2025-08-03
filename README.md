@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Cloud & DevOps Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdkhurram0207/mdkhurram0207/main/banner.png" alt="Cloud & DevOps Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Mohammad Khurram 👋</h1>
 

@@ -6,15 +6,14 @@
 <h1 align="center">Hi, I'm Mohammad Khurram</h1>
 
 <p align="center">
-🚀 Cloud & DevOps
-🎯 Open to Internships and Entry-Level Opportunities
+  Cloud & DevOps
+  Open to Internships and Entry-Level Opportunities
 </p>
 
 🔍 About Me  
-- 🎓 B.Tech Graduate | Class of 2025  
-- 🚀 Focused on Cloud Computing & DevOps  
-- 🌎 Actively seeking internships and entry-level roles in cloud technologies  
-- ☕ Self-learner with a passion for automation and scalability  
+-  B.Tech Graduate | Class of 2025  
+-  Focused on Cloud Computing & DevOps  
+-  Actively seeking internships and entry-level roles in cloud technologies  
 
 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -27,6 +26,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 Looking to Connect  
-🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-khurram-721734227)  
-📬 Email: mdkhurram91@gmail.com  
-🎨 Open to collaboration on beginner-friendly DevOps or Cloud projects
+  [LinkedIn](https://www.linkedin.com/in/mohammad-khurram-721734227)  
+  Email: mdkhurram91@gmail.com  
+  Open to collaboration on beginner-friendly DevOps or Cloud projects
